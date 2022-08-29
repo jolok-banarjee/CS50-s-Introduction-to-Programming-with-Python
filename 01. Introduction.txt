@@ -1,0 +1,14 @@
+1. Introduction
+2. Functions, Variables
+3. Conditionals
+4. Loops
+5. Exceptions
+6. Libraries
+7. Unit Tests
+8. File I/O
+9. Regular Expresssions
+10. Object-Oriented Programming
+11. Et Cetera
+
+Everyday try to continue this course...at least 5 Seconds.
+All the best!
